@@ -1,5 +1,5 @@
 # 快柠檬最新官网
-> 更新于: 2025-03-02
+> 更新于: 2025-03-08
 
 - 最新官网: [https://knm08.com/](https://knm08.com/s/gh05)
 - 永久域名: [lmfa2.org](https://lmfa2.org/s/gh08)
