@@ -1,8 +1,8 @@
 # 快柠檬最新官网
-> 更新于: 2025-03-08
+> 更新于: 2025-05-15
 
 - 最新官网: [https://knm08.com/](https://knm08.com/s/gh05)
-- 永久域名: [lmfa2.org](https://lmfa2.org/s/gh08)
+- 永久域名: [lalalem.org](https://lalalem.org/s/gh09)
 - 联系邮箱: kefu@falemon.com
 - 电报群组: <https://t.me/falemon_group>
 - 服务状态: <https://falemon.statuspage.io/>
