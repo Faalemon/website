@@ -1,8 +1,8 @@
 # 快柠檬最新官网
-> 更新于: 2025-05-17
+> 更新于: 2025-06-20
 
 - 最新官网: [https://knm08.com/](https://knm08.com/s/gh05)
-- 永久域名: [faeow.xyz](https://faeow.xyz/s/gh10)
+- 永久域名: [falemon.com](https://mp.dtbaq.cn/s/gh11)
 - 联系邮箱: kefu@falemon.com
 - 电报群组: <https://t.me/falemon_group>
 - 服务状态: <https://falemon.statuspage.io/>
