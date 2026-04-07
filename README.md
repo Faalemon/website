@@ -1,7 +1,7 @@
 # 快柠檬最新官网
 > 更新于: 2026-04-08
 
-- 最新官网: [https://fastlem.pics/](https://fastlem.pics/s/gh05)
+- 最新官网: <https://boltlmo.shop/>
 - 永久域名: [falemon.com](https://mp.xftfq.com/s/gh11)
 - 联系邮箱: kefu@falemon.com
 - 电报群组: <https://t.me/falemon_group>
