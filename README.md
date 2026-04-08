@@ -9,7 +9,7 @@
 - 客户端下载:
 	- [快柠檬安卓最新版（64位）v1.11.0178.apk](https://github.com/Faalemon/website/releases/latest/download/falemon-1.11.0178-v8a.apk)
 	- [快柠檬安卓兼容版（32位）v1.11.0178.apk](https://github.com/Faalemon/website/releases/latest/download/falemon-1.11.0178-v7a.apk)
-	- [快柠檬Windows电脑安装包 v1.11.1046.exe](https://github.com/Faalemon/website/releases/latest/download/FalemonSetup-1.11.1046.exe)
+	- [快柠檬Windows电脑安装包 v1.11.1048.exe](https://github.com/Faalemon/website/releases/latest/download/FalemonSetup-1.11.1048.exe)
 	- [快柠檬Mac电脑安装包.dmg](https://github.com/Faalemon/website/releases/latest/download/falemon-1.09.1023.dmg)
 	- [快柠檬iOS自签名.ipa](https://github.com/Faalemon/website/releases/latest/download/Falemon-1.08.0030.ipa)
 	- [快柠檬Linux安装包.tar.gz](https://github.com/Faalemon/website/releases/latest/download/Falemon-linux-x64-1.09.5003.tar.gz)
