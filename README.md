@@ -11,5 +11,5 @@
 	- [快柠檬安卓兼容版（32位）v1.11.0208.apk](https://github.com/Faalemon/website/releases/latest/download/falemon-1.11.0208-v7a.apk)
 	- [快柠檬Windows电脑安装包 v1.11.1057.exe](https://github.com/Faalemon/website/releases/latest/download/FalemonSetup-1.11.1057.exe)
 	- [快柠檬Mac电脑安装包.dmg](https://github.com/Faalemon/website/releases/latest/download/falemon-1.09.1023.dmg)
-	- [快柠檬Linux安装包 v1.11.5007 (.deb, Ubuntu/Debian 桌面)](https://github.com/Faalemon/website/releases/latest/download/Falemon-linux-x64-1.11.5007.deb)
-	- [快柠檬Linux安装包 v1.11.5007 (.tar.gz, 通用)](https://github.com/Faalemon/website/releases/latest/download/Falemon-linux-x64-1.11.5007.tar.gz)
+	- [快柠檬Linux安装包 v1.11.5008 (.deb, Ubuntu/Debian 桌面)](https://github.com/Faalemon/website/releases/latest/download/Falemon-linux-x64-1.11.5008.deb)
+	- [快柠檬Linux安装包 v1.11.5008 (.tar.gz, 通用)](https://github.com/Faalemon/website/releases/latest/download/Falemon-linux-x64-1.11.5008.tar.gz)
