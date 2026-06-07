@@ -3,7 +3,7 @@
 
 - 最新官网: <https://fastlem.pics/>
 - 永久域名: [falemon.com](https://lem688.org/)
-- 联系邮箱: kefu@falemon.com
+- 客服邮箱: kefu@falemon.com
 - 电报群组: <https://t.me/falemon_group>
 - 服务状态: <https://falemon.statuspage.io/>
 - 客户端下载:
