@@ -1,7 +1,7 @@
 # 快柠檬最新官网
-> 更新于: 2026-07-27
+> 更新于: 2026-08-19
 
-- 最新官网: <https://fastlem.pics/>
+- 最新官网: <https://fastlem.org/>
 - 永久域名: [falemon.com](https://lem688.org/)
 - 客服邮箱: kefu@falemon.com
 - 电报群组: <https://t.me/falemon_group>
