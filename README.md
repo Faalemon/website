@@ -1,5 +1,5 @@
 # 快柠檬最新官网
-> 更新于: 2026-10-30
+> 更新于: 2026-10-31
 
 - 最新官网: <https://fastlem.org/>
 - 永久域名: [falemon.com](https://lem688.org/)
@@ -7,8 +7,8 @@
 - 电报群组: <https://t.me/falemon_group>
 - 服务状态: <https://falemon.statuspage.io/>
 - 客户端下载:
-	- [快柠檬安卓最新版（64位）v1.11.0256.apk](https://github.com/Faalemon/website/releases/latest/download/falemon-1.11.0256-v8a.apk)
-	- [快柠檬安卓兼容版（32位）v1.11.0256.apk](https://github.com/Faalemon/website/releases/latest/download/falemon-1.11.0256-v7a.apk)
+	- [快柠檬安卓最新版（64位）v1.11.0257.apk](https://github.com/Faalemon/website/releases/latest/download/falemon-1.11.0257-v8a.apk)
+	- [快柠檬安卓兼容版（32位）v1.11.0257.apk](https://github.com/Faalemon/website/releases/latest/download/falemon-1.11.0257-v7a.apk)
 	- [快柠檬Windows电脑安装包 v1.11.1064.exe](https://github.com/Faalemon/website/releases/latest/download/FalemonSetup-1.11.1064.exe)
 	- [快柠檬Mac电脑安装包.dmg](https://github.com/Faalemon/website/releases/latest/download/falemon-1.09.1023.dmg)
 	- [快柠檬iOS自签名.ipa](https://github.com/Faalemon/website/releases/latest/download/Falemon-1.08.0030.ipa)
